@@ -9,7 +9,7 @@ PrintSrc
  * http://prntscr.com/iovnwq
  
 Topic Download PerfectZone
- * goo.gl/5EYzGS
+ * http://goo.gl/5EYzGS
 
 Credits
  * JairoBarreto (https://twitter.com/JairoBarretoo)
